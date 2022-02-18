@@ -1,0 +1,22 @@
+
+.timer span {
+    font-weight: bold;
+}
+
+.timer {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.timer img {
+    width: 16px;
+}
+
+footer {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    text-align: center;
+}
