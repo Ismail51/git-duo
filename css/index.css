@@ -11,6 +11,7 @@
 
 .timer img {
     width: 16px;
+    justify-content: center;
 }
 
 footer {
